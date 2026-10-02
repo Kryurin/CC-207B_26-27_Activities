@@ -9,7 +9,7 @@ const skills = [
   { id: 'next', name: 'Next.js', level: 78, x: 64, y: 22, size: 16, note: 'Full-stack React apps with server rendering and routing.' },
   { id: 'node', name: 'Node.js', level: 76, x: 68, y: 70, size: 15, note: 'JavaScript on the server for APIs and tooling.' },
   { id: 'supabase', name: 'Supabase', level: 74, x: 84, y: 34, size: 14, note: 'Postgres database, auth and storage without running a server.' },
-  { id: 'mysql', name: 'MySQL', level: 72, x: 88, y: 74, size: 14, note: 'Relational schema design and SQL queries.' },
+  { id: 'mysql', name: 'MySQL', level: 90, x: 88, y: 74, size: 14, note: 'Relational schema design and SQL queries.' },
   { id: 'python', name: 'Python', level: 78, x: 54, y: 86, size: 15, note: 'Scripts, automation and data work.' },
   { id: 'cpp', name: 'C++', level: 65, x: 20, y: 86, size: 13, note: 'Fast, low-level programs and problem solving.' }
 ];
